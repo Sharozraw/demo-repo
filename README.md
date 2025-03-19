@@ -4,6 +4,11 @@ Some description!
 
 ## SubHeader
 
-Watch Tutorial on Youtube
+Watch Tutorial on Youtube.
+
+## Local Development
+
+1. Open index.html in your browser.
+
 
 
